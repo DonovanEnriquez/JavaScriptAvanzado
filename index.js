@@ -1,4 +1,4 @@
-// Importar archivos
+
 
 const { sum, multi } = require('./operaciones')
 const { vehiculos } = require('./CONSTANTS')
